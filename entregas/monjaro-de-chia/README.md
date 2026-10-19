@@ -1,23 +1,22 @@
-# Monjaro de Chia — versão natural
+# Monjaro de Chia — com vídeos de chia
 
-[Baixar o vídeo revisado](criativo_monjaro_natural_2s.mp4?raw=true)
+**[Baixar a versão atual com filmagens de chia](criativo_monjaro_com_videos_reais.mp4?raw=true)**
 
-Um único MP4 vertical de 10 segundos, 1080 × 1920, 30 fps. A apresentadora e as fotos aparecem na sequência, ocupando a tela inteira. A fala original continua durante as imagens.
+Um único MP4 vertical de 10 segundos, 1080 × 1920, 30 fps. A apresentadora e os clipes entram na mesma sequência, com a voz original contínua.
 
-| Trecho | Imagem |
+| Trecho | Conteúdo |
 | --- | --- |
-| 0–2 s | Apresentadora |
-| 2–4 s | Foto do pote de chia — 2 segundos |
-| 4–6 s | Foto do detalhe com frutas — 2 segundos |
-| 6–8 s | Foto dos dois potes — 2 segundos |
-| 8–10 s | Apresentadora e chamada final |
+| 0–2 s | Apresentadora original |
+| 2–4 s | Vídeo em travelling sobre sementes secas de chia |
+| 4–8 s | Vídeo de uma mão despejando sementes de chia em um bowl |
+| 8–10 s | Apresentadora e chamada “Saiba Mais” |
 
-As fotos ficam estáticas, com cortes secos e textos discretos. Sem layout dividido, molduras, zooms ou dissoluções.
+As inserções são filmagens em movimento. Esta versão não usa as fotos das entregas anteriores. Mantém cortes simples e textos discretos, com um plano de cada vez em tela cheia.
 
+- [Fontes e licença dos vídeos](fontes-videos.md)
 - [Descrição do anúncio](descricao_meta_ads.txt)
-- [Fotos com fontes e licenças](fotos_chia_com_fontes.zip?raw=true)
 - [Cópia com o nome de entrega padrão](criativo_editado_final.mp4?raw=true)
 
 Para baixar pelo GitHub, abra o arquivo e use **Download raw file**.
 
-As fotos são do Pexels, com licença comercial e fontes documentadas no ZIP. São imagens ilustrativas; nenhuma foi obtida do Pinterest. Os textos na tela são descritivos, sem transcrição da fala. A versão anterior permanece no histórico do repositório.
+Os clipes do Pexels são ilustrações de chia, sem afirmar que representam a receita exata do usuário. A narração original foi preservada; não foram acrescentados ingredientes ou promessas ao texto. Versões anteriores permanecem no histórico.
