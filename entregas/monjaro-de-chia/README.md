@@ -1,13 +1,23 @@
-# Monjaro de Chia — vídeo editado
+# Monjaro de Chia — versão natural
 
-Entrega: MP4 vertical, 1080 × 1920, 30 fps, 10 segundos, H.264/AAC.
+[Baixar o vídeo revisado](criativo_monjaro_natural_2s.mp4?raw=true)
 
-- [Baixar o vídeo MP4](criativo_editado_final.mp4?raw=true)
+Um único MP4 vertical de 10 segundos, 1080 × 1920, 30 fps. A apresentadora e as fotos aparecem na sequência, ocupando a tela inteira. A fala original continua durante as imagens.
+
+| Trecho | Imagem |
+| --- | --- |
+| 0–2 s | Apresentadora |
+| 2–4 s | Foto do pote de chia — 2 segundos |
+| 4–6 s | Foto do detalhe com frutas — 2 segundos |
+| 6–8 s | Foto dos dois potes — 2 segundos |
+| 8–10 s | Apresentadora e chamada final |
+
+As fotos ficam estáticas, com cortes secos e textos discretos. Sem layout dividido, molduras, zooms ou dissoluções.
+
 - [Descrição do anúncio](descricao_meta_ads.txt)
-- [Baixar as fotos com fontes e licenças](fotos_chia_com_fontes.zip?raw=true)
+- [Fotos com fontes e licenças](fotos_chia_com_fontes.zip?raw=true)
+- [Cópia com o nome de entrega padrão](criativo_editado_final.mp4?raw=true)
 
-Para baixar pelo GitHub, abra o arquivo e use o botão **Download raw file**.
+Para baixar pelo GitHub, abra o arquivo e use **Download raw file**.
 
-A apresentadora e a fala original foram preservadas. Foram adicionados título, textos descritivos, três fotos ilustrativas com movimentos e transições e chamada final “Conheça a receita”. Os textos na tela não são uma transcrição da fala.
-
-As fotos são do Pexels, com licença comercial; os autores, páginas e condições estão no ZIP. Nenhuma foto foi obtida do Pinterest.
+As fotos são do Pexels, com licença comercial e fontes documentadas no ZIP. São imagens ilustrativas; nenhuma foi obtida do Pinterest. Os textos na tela são descritivos, sem transcrição da fala. A versão anterior permanece no histórico do repositório.
